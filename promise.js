@@ -19,5 +19,5 @@ const answer = (response) => {
 };
 
 
-// call 
+// call
 answer("red");
