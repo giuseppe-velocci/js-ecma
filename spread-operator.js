@@ -1,6 +1,6 @@
 const a = [1,2,3,4];
 
-// log an array witha a one liner
+// log an array with a one liner
 console.log(...a);
 
 // or use it inside a function: that MUST have the same number (or greater) of arguments
